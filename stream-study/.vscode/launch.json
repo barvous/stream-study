@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-StreamStudyApplication<stream-study>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "br.com.grimoire.streamstudy.StreamStudyApplication",
+            "projectName": "stream-study",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
